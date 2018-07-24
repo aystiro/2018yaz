@@ -21,10 +21,7 @@ public class programlamaya_giris_github_sadievren {
 		if(x == 1 || x == 2) 
 			return 1;
 		else 
-		{
 			return fibonacci(x-2) + fibonacci(x-1);
-		}
-		
 	}
 	
 }
