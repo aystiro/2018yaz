@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class programlamaya_giris_github_sadievren {
+public class Fibonacci {
 
 	public static void main(String[] args) 
 	{
